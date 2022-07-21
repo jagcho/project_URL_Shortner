@@ -1,7 +1,7 @@
 {
   "name": "project_url_shortner",
   "version": "1.0.0",
-  "description": "This project consists of two APIs : 1st to create Short url documents and 2nd to get those docs ",
+  "description": "This project consists of two main APIs : 1st to create Short url documents and 2nd to get those docs ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -28,7 +28,6 @@
     "nanoid": "^4.0.0",
     "redis": "^3.1.2",
     "shortid": "^2.2.16",
-    "valid-url": "^1.0.9",
-    "validator": "^13.7.0"
+    "valid-url": "^1.0.9"
   }
 }
